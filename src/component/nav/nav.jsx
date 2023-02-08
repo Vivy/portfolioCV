@@ -1,7 +1,7 @@
-import './contact.css';
+// import './nav.css';
 
-const Contact = () => {
-  return <div>Contact</div>;
+const Nav = () => {
+  return <div>nav</div>;
 };
 
-export default Contact;
+export default Nav;

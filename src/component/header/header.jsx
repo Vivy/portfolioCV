@@ -1,7 +1,7 @@
-import './contact.css';
+import './header.css';
 
-const Contact = () => {
-  return <div>Contact</div>;
+const Header = () => {
+  return <div>Header</div>;
 };
 
-export default Contact;
+export default Header;

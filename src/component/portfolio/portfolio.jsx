@@ -1,7 +1,7 @@
-import './contact.css';
+import './portfolio.css';
 
-const Contact = () => {
-  return <div>Contact</div>;
+const Poftfolio = () => {
+  return <div>Portfolio</div>;
 };
 
-export default Contact;
+export default Poftfolio;

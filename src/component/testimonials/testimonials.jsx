@@ -1,7 +1,7 @@
-import './contact.css';
+import './testimonials.css';
 
-const Contact = () => {
-  return <div>Contact</div>;
+const Testimonials = () => {
+  return <div>test</div>;
 };
 
-export default Contact;
+export default Testimonials;
