@@ -1,7 +1,7 @@
 import './portfolio.css';
 
 const Poftfolio = () => {
-  return <div>Portfolio</div>;
+  return <section id='portfolio'>Portfolio</section>;
 };
 
 export default Poftfolio;
